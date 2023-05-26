@@ -1,4 +1,4 @@
-# Veritavabı Destekli Depo Kontrol Otomasyonu
+# Veritabanı Destekli Depo Kontrol Otomasyonu
 ## Devrimser Çevik 202503047
 
 
