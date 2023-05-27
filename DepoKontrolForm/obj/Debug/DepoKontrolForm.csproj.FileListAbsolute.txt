@@ -1,0 +1,11 @@
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\bin\Debug\DepoKontrolForm.exe.config
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\bin\Debug\DepoKontrolForm.exe
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\bin\Debug\DepoKontrolForm.pdb
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\obj\Debug\DepoKontrolForm.csproj.AssemblyReference.cache
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\obj\Debug\DepoKontrolForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\obj\Debug\DepoKontrolForm.mainscreen.resources
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\obj\Debug\DepoKontrolForm.Properties.Resources.resources
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\obj\Debug\DepoKontrolForm.csproj.GenerateResource.cache
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\obj\Debug\DepoKontrolForm.csproj.CoreCompileInputs.cache
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\obj\Debug\DepoKontrolForm.exe
+C:\Users\jaden\source\repos\DepoKontrolForm\DepoKontrolForm\obj\Debug\DepoKontrolForm.pdb
